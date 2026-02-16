@@ -1,1 +1,1 @@
-# StrikeClaw
+# StrikeClaw - An Advanced Keylogger
